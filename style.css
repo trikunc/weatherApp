@@ -10,7 +10,7 @@ body {
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    background: linear-gradient(rgb(47,150,163), rgb(48,62,143));
+    background: linear-gradient(rgb(64, 57, 160), rgb(166, 215, 230));
     font-family: sans-serif;
     color: white;
 }
@@ -37,4 +37,7 @@ body {
 }
 .degree-section h2 {
     font-size: 40px;
+}
+.temperature-description {
+    font-size: 20px;
 }
